@@ -1,8 +1,8 @@
 <a href="https://github.com/FernandoGabrielDev"> 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=027FFC&height=180&section=header&text=Fernando Gabriel Tupina Lima&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=005C53&height=180&section=header&text=Fernando Gabriel Tupina Lima&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>  
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1100&lines=HELLO,+My+name+is+Fernando+Gabriel;I'm+23+years+old;I'm+from+Brazil,+MT;I'm+studing+computer+science+at+Facape;Now+i'm+living+in+Petrolina-PE;Be+Welcome!;Olá,+Meu+Nome+é+Fernando+Gabriel;Eu+tenho+23+anos;Eu+sou+de+Cuiaba+MT;Eu+sou+estudante+de+Ciencia+da+Computacao+na+Facape;Hoje,+moro+em+Petrolina-PE;Seja+Bem-vindo!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0CF25D&size=35&center=true&vCenter=true&width=1100&lines=HELLO,+My+name+is+Fernando+Gabriel;I'm+23+years+old;I'm+from+Brazil,+MT;I'm+studing+computer+science+at+Facape;Now+i'm+living+in+Petrolina-PE;Be+Welcome!;Olá,+Meu+Nome+é+Fernando+Gabriel;Eu+tenho+23+anos;Eu+sou+de+Cuiaba+MT;Eu+sou+estudante+de+Ciencia+da+Computacao+na+Facape;Hoje,+moro+em+Petrolina-PE;Seja+Bem-vindo!:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FernandoGabrielDev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Fernando Gabriel github stats" /> 
