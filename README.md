@@ -10,6 +10,7 @@
 </div>
 
 <!--![Contribution](https://activity-graph.herokuapp.com/graph?username=FernandoGabrielDev&theme=gotham&hide_border=true&area=true)-->
+![Snake animation](https://github.com/FernandoGabrielDev/FernandoGabrielDev/blob/output/github-contribution-grid-snake.svg)
 
 <div>  
 <a href="https://www.instagram.com/fernandogabriel4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
